@@ -1,0 +1,62 @@
+[
+  {
+    "logoUrl": "../assets/svgs/BTC.svg",
+    "name": "Bitcoin",
+    "ticker": "BTC",
+    "price": 21984.10,
+    "currency": "$",
+    "change": 10,
+    "isUp": true,
+    "changeType": "%",
+    "tvl": 60000,
+    "popularPairs": ["SOL", "ETH", "BUSD"]
+  },
+  {
+    "logoUrl": "../assets/svgs/SOL.svg",
+    "name": "Solana",
+    "ticker": "SOL",
+    "price": 18.82,
+    "currency": "$",
+    "change": 12.32,
+    "isUp": false,
+    "changeType": "%",
+    "tvl": 60000,
+    "popularPairs": ["BTC", "ETH", "BUSD"]
+  },
+  {
+    "logoUrl": "../assets/svgs/ETH.svg",
+    "name": "Ethereum",
+    "ticker": "ETH",
+    "price": 1550.10,
+    "currency": "$",
+    "change": 11.93,
+    "isUp": true,
+    "changeType": "%",
+    "tvl": 60000,
+    "popularPairs": ["SOL", "BTC", "BUSD"]
+  },
+  {
+    "logoUrl": "../assets/svgs/BUSD.svg",
+    "name": "Binance USD",
+    "ticker": "BUSD",
+    "price": 1.00245,
+    "currency": "$",
+    "change": 1.26,
+    "isUp": false,
+    "tvl": 60000,
+    "changeType": "%",
+    "popularPairs": ["SOL", "ETH", "BTC"]
+  },
+  {
+    "logoUrl": "../assets/svgs/SHIB.svg",
+    "name": "Shiba Inu",
+    "ticker": "SHIB",
+    "price": 0.00001948,
+    "currency": "$",
+    "change": 8.1,
+    "isUp": false,
+    "changeType": "%",
+    "tvl": 60000,
+    "popularPairs": ["BTC", "ETH", "BUSD"]
+  }
+]
