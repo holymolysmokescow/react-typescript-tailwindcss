@@ -5,7 +5,7 @@ import { ReactComponent as TrendingLogo } from '../assets/svgs/activity.svg';
 import data from '../asset-data.json';
 
 export const TrendingCryptoList = () => {
-  const [coinData, setCoinData] = useState(() => data);
+  const [coinData] = useState(() => data);
 
   return (
     <div className="2xl:pt-44 xl:pt-28 lg:pt-10 md:pt-8 pl-12 pr-12">

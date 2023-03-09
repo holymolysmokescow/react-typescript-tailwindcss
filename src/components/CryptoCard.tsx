@@ -3,7 +3,6 @@ import { ReactComponent as InfoCard } from '../assets/svgs/info-card.svg';
 
 type CryptoCardProps = {
   coin: {
-    logoUrl: string;
     name: string;
     ticker: string;
     price: number;
@@ -18,7 +17,6 @@ type CryptoCardProps = {
 
 export const CryptoCard = (props: CryptoCardProps) => {
   const {
-    logoUrl,
     name,
     ticker,
     price,
